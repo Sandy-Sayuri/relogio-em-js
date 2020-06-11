@@ -1,17 +1,19 @@
 body{
-    color:rgba(222, 223, 219, 0.904)
+    color:black;
+    background-color: rgba(28, 28, 161, 0.507);
 }
 header{
     color: black;
     text-align: center;
 }
 section{
-    background-color: rgba(255, 255, 255, 0.74);
+    background: white;
     border-radius: 10px;
     padding: 15px;
     width: 500px;
     margin:auto;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473); 
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+    font:20px black; 
 }
 footer{
     color: black;
